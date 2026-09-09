@@ -196,8 +196,12 @@ footer .container {
 }
 
 footer p {
+    
+    display: inline-block;
     width: 500px;
     margin: 0 auto;
     color: #DCDCF5;
+    font-size: small;
+    margin-left: 25px;
 }
 
